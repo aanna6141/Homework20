@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Вивчення HTML</h1>
+<p>На початку свого шляху, майже, кожен думає, що HTML - це мова програмування.</p>
+<p style="background-color:Tomato;">Але це не так. Зараз я розповім тобі, що таке HTML.</p>
+
+ <p style="color:DodgerBlue;">Для початку уяви, що HTML це мова, якою спілкується твій браузер.</p>
+<p style="color:MediumSeaGreen;">Тобто, це все таки мова, але не мова програмування. </p> 
+
+<style>
+h1 {
+  background-color: green; text-align:center;
+}
+
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: yellow;
+}
+</style>
+
+</body>
+</html>
